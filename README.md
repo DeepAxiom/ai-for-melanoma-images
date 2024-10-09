@@ -41,15 +41,15 @@ python app.py
 
 
 ##  Resultados:
-        El programa generará un archivo PNG llamado colores_y_mascara.png que muestra los colores dominantes y la máscara binaria.
+  El programa generará un archivo PNG llamado colores_y_mascara.png que muestra los colores dominantes y la máscara binaria.
         Además, se creará un archivo CSV llamado colores_dominantes_con_porcentaje.csv (si no existe) que contendrá los colores, porcentajes, medidas de forma y otros índices.
 
-##Personalización
+## Personalización
 
-    Puedes cambiar el número de colores a identificar modificando el parámetro n_clusters en la inicialización de la clase ColorAnalyzer.
+Puedes cambiar el número de colores a identificar modificando el parámetro n_clusters en la inicialización de la clase ColorAnalyzer.
     También puedes ajustar el color que se considera negro cambiando el parámetro threshold_black.
 
-##Contribuciones
+## Contribuciones
 
 Si deseas contribuir al proyecto, siéntete libre de enviar un pull request o abrir un issue para discutir nuevas características o mejoras.
 ##Licencia
