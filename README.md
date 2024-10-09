@@ -26,16 +26,16 @@ Puedes instalar las bibliotecas requeridas utilizando `pip`:
 pip install opencv-python numpy scikit-learn matplotlib scipy
 ```
 Uso
-    Realizas la segmentación de la imagen inicial con segmentation.py
+- Realizas la segmentación de la imagen inicial con segmentation.py
 
-    Preparar la imagen: Asegúrate de tener una imagen que deseas analizar. Renombra la imagen a cropped_mask.png (puedes usar la que deses) o modifica el nombre de la imagen en el código.
+- Preparar la imagen: Asegúrate de tener una imagen que deseas analizar. Renombra la imagen a cropped_mask.png (puedes usar la que deses) o modifica el nombre de la imagen en el código
 
-    Ejecutar el análisis:
+- Ejecutar el análisis:
         Abre un terminal o consola.
         Navega al directorio donde se encuentra el archivo app.py.
         Ejecuta el script usando Python:
 
-    bash
+```bash
 
     python app.py
 
