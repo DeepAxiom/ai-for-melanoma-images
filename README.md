@@ -36,10 +36,11 @@ Uso
         Ejecuta el script usando Python:
 
 ```bash
+python app.py
+```
 
-    python app.py
 
-    Resultados:
+##  Resultados:
         El programa generará un archivo PNG llamado colores_y_mascara.png que muestra los colores dominantes y la máscara binaria.
         Además, se creará un archivo CSV llamado colores_dominantes_con_porcentaje.csv (si no existe) que contendrá los colores, porcentajes, medidas de forma y otros índices.
 
