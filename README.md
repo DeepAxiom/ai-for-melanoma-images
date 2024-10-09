@@ -1,5 +1,6 @@
 # Database Creation
 Esta es una herramienta de análisis de imágenes diseñada para extraer colores dominantes de una imagen y realizar cálculos relacionados con la forma y la simetría de la máscara de la imagen. Utiliza técnicas de aprendizaje automático, como K-Means, para identificar colores y medidas de forma para proporcionar una descripción detallada de la imagen.
+![Obtención de mascara y colores dominantes](colores_y_mascara.png)
 
 ## Características
 
